@@ -35,6 +35,6 @@ fn main() {
 ```
 ```toml
 [dependencies]
-rucycle = { git = "https://github.com/yourusername/rucycle.git" }
+rucycle = { git = "https://github.com/Terminal1337/RuCycle.git" }
 
 
